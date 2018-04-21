@@ -1,0 +1,5 @@
+.login_wrapper{width: 35%; margin:100px auto 0; padding: 30px;}
+.login_wrapper h1{color: #ea7893; margin: 0px 0px 10px;}
+.login_wrapper p{color: #000; margin: 0px 0px 20px;}
+.login_wrapper p span{color: #9c93ea;}
+.login_btn{margin-top: 30px; text-align: right;}
